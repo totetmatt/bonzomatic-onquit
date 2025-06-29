@@ -1,6 +1,7 @@
 # Bonzomatic Onquit
 Small companion tool for Bonzomatic that is aimed to be run after quiting bonzomatic to manage the shader file used.
 
+![screenshot.png](screenshot.png)
 ## Install
 * Download zip
 * Unzip content to bonzomatic directory
