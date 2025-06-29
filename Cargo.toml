@@ -1,0 +1,16 @@
+[package]
+name = "bonzomatic-onquit"
+version = "0.1.0"
+edition = "2024"
+
+
+[dependencies]
+
+eframe = "*"
+egui = "*"
+egui_extras = { version = "*", features = ["all_loaders"] }
+tinyfiledialogs = "3.0"
+env_logger =  "*"
+chrono = "0.4.41"
+
+
